@@ -12,7 +12,7 @@ Duration: December 2024 to January 2025
 
 # Overview of the Project
 
-Project: Linear Regression on the California Housing Dataset
+Project: Predictive Modeling with Linear Regression on the California Housing Dataset
 
 This project demonstrates the use of linear regression for predicting house prices using the California Housing dataset. The dataset contains information about various features of California districts and their corresponding median house values, making it ideal for regression modeling and evaluation.
 
