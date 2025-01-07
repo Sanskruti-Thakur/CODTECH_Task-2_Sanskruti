@@ -41,6 +41,9 @@ c) R-squared (R²): Indicates the proportion of variance in the target variable 
 Visualization of Results:
 Create a scatter plot comparing actual vs. predicted house values. Overlay a red line representing perfect predictions (where actual equals predicted) to assess the model’s alignment with the ideal scenario.
 
+![image](https://github.com/user-attachments/assets/20ccde9d-5b9a-40e2-a60a-99751f16eb22)
+
+
 Tools and Libraries Used:
 
 a) scikit-learn:
