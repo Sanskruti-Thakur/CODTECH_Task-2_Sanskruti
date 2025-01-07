@@ -18,7 +18,7 @@ This project demonstrates the use of linear regression for predicting house pric
 
 Key Objectives:
 
-1) Data Loading and Preparation:
+Data Loading and Preparation:
 
 a) Use scikit-learn to fetch the California Housing dataset.
 
@@ -26,10 +26,10 @@ b) Separate the dataset into features (predictors) and the target variable (hous
 
 c) Split the data into training and testing sets to evaluate model performance on unseen data.
 
-3) Model Development and Training:
+Model Development and Training:
 Implement a linear regression model using scikit-learn. Train the model on the training set to learn the relationship between features and house prices.
 
-4) Model Evaluation:
+Model Evaluation:
 Evaluate the model's predictive performance on the test set using key metrics:
 
 a) Mean Squared Error (MSE): Measures the average squared difference between predicted and actual values.
@@ -38,10 +38,10 @@ b) Mean Absolute Error (MAE): Measures the average magnitude of prediction error
 
 c) R-squared (R²): Indicates the proportion of variance in the target variable explained by the model. Compute accuracy as a percentage of the variance explained by the model (R² * 100).
 
-5) Visualization of Results:
+Visualization of Results:
 Create a scatter plot comparing actual vs. predicted house values. Overlay a red line representing perfect predictions (where actual equals predicted) to assess the model’s alignment with the ideal scenario.
 
-6) Tools and Libraries Used:
+Tools and Libraries Used:
 
 a) scikit-learn:
 
@@ -57,7 +57,7 @@ b) matplotlib: For data visualization.
 
 c) numpy: For efficient numerical computations.
 
-7) Project Flow:
+Project Flow:
 
 a) Load and inspect the California Housing dataset.
 
@@ -69,10 +69,10 @@ d) Evaluate the model on test data using multiple performance metrics.
 
 e) Visualize the actual vs. predicted values to identify patterns and potential errors.
 
-8) Insights and Applications:
+Insights and Applications:
 The evaluation metrics and visualizations provide insights into how well the linear regression model predicts house prices. The project highlights the strengths and limitations of linear regression, offering opportunities to explore more advanced models (e.g., polynomial regression, decision trees) for better predictions. Suitable for beginners learning regression techniques and applying them to real-world datasets.
 
-9) Intended Use:
+Intended Use:
 This project is a practical introduction to:
 
 a) Regression modeling in Python.
