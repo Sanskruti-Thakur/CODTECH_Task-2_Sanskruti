@@ -1,10 +1,6 @@
-# CODTECH_Task-2_Sanskruti
+# Task-2_Sanskruti
 
 Name: Sanskruti Thakur
-
-Company: CODTECH IT SOLUTIONS
-
-ID: CT08DS193
 
 Domain: Data Science
 
